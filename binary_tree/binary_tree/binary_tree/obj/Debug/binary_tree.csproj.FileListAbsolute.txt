@@ -1,0 +1,7 @@
+C:\Users\Mi\source\repos\binary_tree\binary_tree\bin\Debug\binary_tree.exe.config
+C:\Users\Mi\source\repos\binary_tree\binary_tree\bin\Debug\binary_tree.exe
+C:\Users\Mi\source\repos\binary_tree\binary_tree\bin\Debug\binary_tree.pdb
+C:\Users\Mi\source\repos\binary_tree\binary_tree\obj\Debug\binary_tree.csprojAssemblyReference.cache
+C:\Users\Mi\source\repos\binary_tree\binary_tree\obj\Debug\binary_tree.csproj.CoreCompileInputs.cache
+C:\Users\Mi\source\repos\binary_tree\binary_tree\obj\Debug\binary_tree.exe
+C:\Users\Mi\source\repos\binary_tree\binary_tree\obj\Debug\binary_tree.pdb
